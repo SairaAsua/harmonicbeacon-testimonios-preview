@@ -27,6 +27,9 @@ Permitido:
 - `assets/video/testimonios-review/*.mp4`
 - `favicon.svg`
 
+La traducción editorial incluida en `testimonios/translations.js` contiene sólo los fragmentos
+curados visibles en la interfaz; no incorpora transcripciones fuente ni material privado adicional.
+
 Prohibido:
 
 - grabaciones originales;

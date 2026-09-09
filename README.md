@@ -9,8 +9,9 @@ Repositorio privado para coordinar y desplegar la revisión de la galería de te
 - Destino propuesto: `https://testimonios-preview.harmonicbeacon.com/testimonios/`
 - Publicación abierta: no autorizada hasta documentar consentimientos
 
-El paquete contiene únicamente cortes curados y avatares de revisión. Las grabaciones completas,
-transcripciones, fotogramas de referencia, contactos y secretos quedan fuera del repositorio.
+El paquete contiene únicamente cortes curados, ilustraciones de revisión y traducciones editoriales
+de los fragmentos seleccionados. Las grabaciones completas, transcripciones fuente, fotogramas de
+referencia, contactos y secretos quedan fuera del repositorio.
 
 ## Revisión local
 
