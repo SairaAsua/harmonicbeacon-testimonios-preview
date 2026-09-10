@@ -1,0 +1,20 @@
+window.HMP_GALLERY_DATA = [
+  { date: '2026-05-20', src: '/assets/img/mythbot-gallery/2026-05-20-01.webp' },
+  { date: '2026-05-20', src: '/assets/img/mythbot-gallery/2026-05-20-02.webp' },
+  { date: '2026-05-20', src: '/assets/img/mythbot-gallery/2026-05-20-03.webp' },
+  { date: '2026-05-20', src: '/assets/img/mythbot-gallery/2026-05-20-04.webp' },
+  { date: '2026-05-20', src: '/assets/img/mythbot-gallery/2026-05-20-05.webp' },
+  { date: '2026-05-20', src: '/assets/img/mythbot-gallery/2026-05-20-06.webp' },
+  { date: '2026-05-20', src: '/assets/img/mythbot-gallery/2026-05-20-07.webp' },
+  { date: '2026-05-27', src: '/assets/img/mythbot-gallery/2026-05-27-01.webp' },
+  { date: '2026-05-27', src: '/assets/img/mythbot-gallery/2026-05-27-02.webp' },
+  { date: '2026-05-27', src: '/assets/img/mythbot-gallery/2026-05-27-03.webp' },
+  { date: '2026-06-03', src: '/assets/img/mythbot-gallery/2026-06-03-01.webp' },
+  { date: '2026-06-03', src: '/assets/img/mythbot-gallery/2026-06-03-02.webp' },
+  { date: '2026-06-03', src: '/assets/img/mythbot-gallery/2026-06-03-03.webp' },
+  { date: '2026-06-03', src: '/assets/img/mythbot-gallery/2026-06-03-04.webp' },
+  { date: '2026-07-15', src: '/assets/img/mythbot-gallery/2026-07-15-01.webp' },
+  { date: '2026-07-15', src: '/assets/img/mythbot-gallery/2026-07-15-02.webp' },
+  { date: '2026-07-15', src: '/assets/img/mythbot-gallery/2026-07-15-03.webp' },
+  { date: '2026-07-15', src: '/assets/img/mythbot-gallery/2026-07-15-04.webp' }
+];

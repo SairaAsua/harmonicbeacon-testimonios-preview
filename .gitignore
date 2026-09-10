@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+*.zip
+*.vtt
+*.srt
+*.txt
+.env
+.env.*
+originales/
+referencias/
+contacts/
+dist/
