@@ -23,18 +23,19 @@ Permitido:
 - `assets/hb-brand.css`
 - `assets/hb-global-nav.js`
 - `assets/hb-main.js`
-- `assets/img/testimonios-review/*.png`
-- `assets/video/testimonios-review/*.mp4`
+- `assets/img/mythbot-gallery/*.webp`
 - `favicon.svg`
 
-La traducción editorial incluida en `testimonios/translations.js` contiene sólo los fragmentos
-curados visibles en la interfaz; no incorpora transcripciones fuente ni material privado adicional.
+Los datos de `testimonios/review-data.js` contienen exclusivamente fechas y rutas anónimas de las
+obras. No contienen nombres, testimonios ni referencias a las fuentes.
 
 Prohibido:
 
 - grabaciones originales;
+- videos testimoniales;
 - transcripciones o subtítulos fuente;
 - fotogramas de referencia;
+- nombres de participantes;
 - datos de contacto;
 - secretos o archivos de entorno;
 - rutas, logs o configuración de otros servicios.
@@ -49,6 +50,6 @@ rutas y ausencia de extensiones prohibidas. No debe reiniciar ni modificar el bo
 
 - `/` responde y redirige a `/testimonios/`.
 - `/testimonios/` responde `200` sólo después de autenticación.
-- un avatar y un video curado responden `200` y admiten range requests.
+- una obra anonimizada responde `200`.
 - originales, transcripciones y rutas desconocidas no son accesibles.
 - la respuesta incluye `X-Robots-Tag: noindex, nofollow, noarchive`.

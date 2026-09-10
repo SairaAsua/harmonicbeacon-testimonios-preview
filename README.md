@@ -1,6 +1,6 @@
-# Harmonic Beacon — testimonios preview
+# Harmonic Beacon — galería del Mythbot
 
-Repositorio privado para coordinar y desplegar la revisión de la galería de testimonios de Harmonic Beacon.
+Repositorio privado para coordinar y revisar la galería de arte del Mythbot de Harmonic Beacon.
 
 ## Estado
 
@@ -9,9 +9,9 @@ Repositorio privado para coordinar y desplegar la revisión de la galería de te
 - Destino propuesto: `https://testimonios-preview.harmonicbeacon.com/testimonios/`
 - Publicación abierta: no autorizada hasta documentar consentimientos
 
-El paquete contiene únicamente cortes curados, ilustraciones de revisión y traducciones editoriales
-de los fragmentos seleccionados. Las grabaciones completas, transcripciones fuente, fotogramas de
-referencia, contactos y secretos quedan fuera del repositorio.
+El paquete contiene únicamente 18 interpretaciones visuales anonimizadas y las fechas de los
+encuentros que les dieron origen. No publica nombres, testimonios, videos, grabaciones completas,
+transcripciones fuente, fotogramas de referencia, contactos ni secretos.
 
 ## Revisión local
 
