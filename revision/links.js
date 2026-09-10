@@ -1,0 +1,20 @@
+window.HMP_CONSENT_REVIEW_LINKS = {
+  'r-OZ5EWP2spP-e': 'Merli Tharn',
+  'r-VntjhojG87xL': 'Blanca',
+  'r-_gZ7AaSmwO66': 'Yanina',
+  'r-jBDS0SfvbhBN': 'Ailen',
+  'r-alEsXvjEvJsy': 'Gioia Mosca',
+  'r-rTAXVS0Qg3JT': 'Doris',
+  'r-sOx-smtdfRmM': 'Laura Henao',
+  'r-p_30-yTSvrVU': 'Susy',
+  'r--GpooHusWvKN': 'Patricia',
+  'r-_I_2K18LbCrb': 'Marta',
+  'r-UZm1TqKG2QXi': 'Yanel',
+  'r-igu8YueYX9-c': 'Karina Donantueno',
+  'r-M_9vBqd3WV0h': 'Ana Ligia Monge',
+  'r-pZWWarBIAEy4': 'Fernand Rodriguez Cetran',
+  'r--b6cKuV0yxef': 'Sara',
+  'r-ExnPowhNfGYU': 'Cynthia Fisdel',
+  'r-Jc-W07JgjB1x': 'Luca Aeschlimann',
+  'r-5_us0WrUQgV3': 'Isabel'
+};
