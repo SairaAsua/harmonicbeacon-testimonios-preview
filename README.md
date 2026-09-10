@@ -1,12 +1,12 @@
-# Harmonic Beacon — testimonios preview
+# Harmonic Beacon — Voces
 
-Repositorio privado para coordinar y desplegar la revisión de la galería de testimonios de Harmonic Beacon.
+Repositorio de la galería de relatos y testimonios de Harmonic Beacon, preparado para GitHub Pages.
 
 ## Estado
 
 - Superficie: `review`
 - Ruta canónica del paquete: `/testimonios/`
-- Destino propuesto: `https://testimonios-preview.harmonicbeacon.com/testimonios/`
+- Dominio preparado: `https://voces.harmonicbeacon.com/`
 - Publicación abierta: no autorizada hasta documentar consentimientos
 
 El paquete contiene únicamente cortes curados, ilustraciones de revisión y traducciones editoriales
@@ -21,4 +21,5 @@ python3 -m http.server 8769
 
 Abrir <http://localhost:8769/testimonios/>.
 
-La coordinación operativa vive en el [Issue #1](../../issues/1).
+La publicación se coordina en el [Issue #4](../../issues/4) y se documenta en
+[`docs/GITHUB_PAGES.md`](docs/GITHUB_PAGES.md).
