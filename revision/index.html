@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es" data-active-lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="robots" content="noindex,nofollow,noarchive" />
+  <meta name="referrer" content="no-referrer" />
+  <title>Revisión individual · Harmonic Beacon</title>
+  <meta name="description" content="Revisión individual de un relato testimonial de Harmonic Beacon." />
+  <meta name="theme-color" content="#16120D" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/hb-brand.css" />
+  <style>
+    html[data-active-lang="es"] [data-lang="en"],html[data-active-lang="en"] [data-lang="es"]{display:none!important}
+    body{background:var(--bg-0)}
+    .review-head{padding:1rem 0;border-bottom:1px solid var(--hair);background:rgba(22,18,13,.92)}
+    .review-head .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem}
+    .review-brand{display:flex;align-items:center;gap:.7rem;color:var(--bone);font-size:.7rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase}
+    .review-brand img{width:30px;height:30px}
+    .lang-switch{min-height:40px;padding:.55rem .8rem;border:1px solid var(--hair);border-radius:999px;color:var(--gold);background:transparent;font:600 .68rem var(--font-sans);letter-spacing:.12em;text-transform:uppercase;cursor:pointer}
+    .review-shell{padding:clamp(2.5rem,7vw,6rem) 0 6rem}
+    .review-intro{max-width:64ch;margin:0 auto 2rem;text-align:center}
+    .review-intro h1{margin-top:.7rem;font-size:clamp(2.6rem,7vw,5.2rem);line-height:.95}
+    .review-intro p{margin:1.2rem auto 0;color:var(--ink-600);font-size:clamp(1rem,2vw,1.12rem);line-height:1.7}
+    .consent-note{max-width:64ch;margin:1.5rem auto 0;padding:1.1rem 1.2rem;border:1px solid var(--gold);border-radius:14px;background:rgba(201,162,78,.06);color:var(--ink-600);line-height:1.65;text-align:left}
+    .consent-note strong{display:block;margin-bottom:.35rem;color:var(--gold);font-size:.68rem;letter-spacing:.14em;text-transform:uppercase}
+    .profile{max-width:1080px;margin:0 auto;border:1px solid var(--hair);border-radius:22px;overflow:hidden;background:var(--bg-card)}
+    .profile-head{display:grid;gap:clamp(1.5rem,4vw,3rem);padding:clamp(1.25rem,4vw,3rem)}
+    @media(min-width:760px){.profile-head{grid-template-columns:minmax(240px,340px) 1fr;align-items:center}}
+    .myth-image{display:block;width:100%;aspect-ratio:1;border:1px solid var(--hair-soft);border-radius:18px;object-fit:cover}
+    .image-caption{display:block;margin-top:.7rem;color:var(--ink-500);font-size:.62rem;letter-spacing:.11em;text-transform:uppercase}
+    .profile-title{margin-top:.5rem;font-size:clamp(2.8rem,7vw,5rem);line-height:.94}
+    .profile-intro{margin-top:1rem;color:var(--ink-600);line-height:1.7}
+    .ai-label{display:inline-flex;margin-top:1rem;padding:.4rem .65rem;border:1px solid var(--hair-soft);border-radius:999px;color:var(--ink-500);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase}
+    .testimony{margin-top:1.3rem;padding:1.15rem 1.2rem;border:1px solid var(--hair-soft);border-radius:14px;background:rgba(201,162,78,.045)}
+    .testimony span{display:block;margin-bottom:.55rem;color:var(--gold);font-size:.62rem;letter-spacing:.14em;text-transform:uppercase}
+    .testimony blockquote{margin:0;color:var(--ink-800);font:italic clamp(1.08rem,2.4vw,1.3rem)/1.5 var(--font-serif)}
+    .clips{display:grid;gap:1px;border-top:1px solid var(--hair-soft);background:var(--hair-soft)}
+    .clip{display:grid;gap:1.25rem;padding:clamp(1.25rem,4vw,2.2rem);background:var(--bg-card)}
+    @media(min-width:820px){.clip{grid-template-columns:minmax(280px,44%) 1fr;align-items:start}}
+    .clip video{display:block;width:100%;aspect-ratio:16/9;border:1px solid var(--hair-soft);border-radius:14px;background:#090705;object-fit:contain}
+    .clip-kicker{color:var(--gold);font-size:.65rem;letter-spacing:.14em;text-transform:uppercase}
+    .clip h2{margin-top:.45rem;font-size:clamp(1.55rem,3vw,2rem);line-height:1.08}
+    .clip p{margin-top:.8rem;color:var(--ink-600);line-height:1.65}
+    .clip blockquote{margin:1rem 0 0;padding-left:1rem;border-left:2px solid var(--gold);font:italic 1.1rem/1.45 var(--font-serif)}
+    .invalid{max-width:40rem;margin:10vh auto;padding:2rem;border:1px solid var(--hair);border-radius:18px;text-align:center}
+    .invalid p{margin-top:1rem;color:var(--ink-600);line-height:1.7}
+    .review-foot{padding:2rem 1rem;color:var(--ink-500);font-size:.68rem;letter-spacing:.12em;text-align:center;text-transform:uppercase}
+  </style>
+</head>
+<body>
+  <header class="review-head">
+    <div class="wrap">
+      <span class="review-brand"><img src="/favicon.svg" alt="" />Harmonic Beacon</span>
+      <button class="lang-switch" id="langSwitch" type="button" aria-label="Cambiar idioma"><span data-lang="es">Ver en inglés</span><span data-lang="en">View in Spanish</span></button>
+    </div>
+  </header>
+  <main class="review-shell">
+    <div class="wrap" id="reviewRoot" aria-live="polite"></div>
+  </main>
+  <footer class="review-foot">Harmonic Beacon · Proyección Armónica del Mito</footer>
+  <script src="/testimonios/review-data.js"></script>
+  <script src="/testimonios/translations.js"></script>
+  <script src="/revision/links.js"></script>
+  <script src="/revision/app.js"></script>
+</body>
+</html>
