@@ -74,7 +74,7 @@ window.HMP_REVIEW_DATA = [
     ]
   },
   {
-    name: 'Karina Donantueno', avatar: '/assets/img/testimonios-review/karina-donantueno.png', faceless: true,
+    name: 'Karina Donantueno', avatar: '/assets/img/testimonios-review/karina-donantueno.png', faceless: false,
     intro: 'Cambiar de perspectiva transforma lo extraño en una experiencia de pertenencia, singularidad y calma.',
     clips: [{ code: 'N09', date: '2026-06-03', dateLabel: '3 jun 2026', kind: 'myth', newCut: true, title: 'Un lugar para lo diferente', summary: 'Al ponerse en el lugar de una figura extraña, la sensación de no encajar cambia hacia singularidad, pertenencia y respiración.', quote: 'Siempre va a haber algo que no encaje con todos.', video: '/assets/video/testimonios-review/N09.mp4' }]
   },
