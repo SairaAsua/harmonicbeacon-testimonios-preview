@@ -9,7 +9,7 @@ Repositorio privado para coordinar y revisar la galería de arte del Mythbot de 
 - Destino propuesto: `https://testimonios-preview.harmonicbeacon.com/testimonios/`
 - Publicación abierta: no autorizada hasta documentar consentimientos
 
-El paquete contiene únicamente 18 interpretaciones visuales anonimizadas y las fechas de los
+El paquete contiene únicamente 22 ampliaciones míticas visuales anonimizadas y las fechas de los
 encuentros que les dieron origen. No publica nombres, testimonios, videos, grabaciones completas,
 transcripciones fuente, fotogramas de referencia, contactos ni secretos.
 
